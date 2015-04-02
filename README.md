@@ -1,7 +1,7 @@
 # GOALS OF THIS PROJECT
 
 The main goal of this project, is to share this amazing picture of me and
-my friend Vincent with the world.
+my BFF Vincent with the world.
 ![Me and Vincent](https://s3-ap-southeast-1.amazonaws.com/uploads-ap.hipchat.com/104663/876043/pvxlrKgALQmf6pj/upload.png)
 
 # HOW TO USE
