@@ -8,6 +8,9 @@ my BFF Vincent with the world.
 
 Here are some really clever examples:
 
+### Far
+![Far](https://s3-ap-southeast-1.amazonaws.com/uploads-ap.hipchat.com/104663/771102/2w8rMOzbmn0blfP/Screen%20Shot%202015-04-07%20at%205.47.47%20PM.png "Vincent's face")
+
 ### Regular
 ![Regular](https://s3-ap-southeast-1.amazonaws.com/uploads-ap.hipchat.com/104663/1000022/Fo6fcFUXf7oYtZw/Screen%20Shot%202015-03-31%20at%205.39.41%20PM.png "Vincent's face")
 
